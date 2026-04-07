@@ -1,6 +1,5 @@
-# Awesome Local-First Tools
+# Local-First Tools
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/ResourceChest/local-first-tools?style=social)](https://github.com/ResourceChest/local-first-tools)
@@ -133,8 +132,6 @@ Explore our other curated lists and tools:
 
 - [**chrome-privacy-extensions**](https://github.com/ResourceChest/chrome-privacy-extensions) -- Curated list of Chrome extensions that protect your privacy
 - [**custom-gpts**](https://github.com/ResourceChest/custom-gpts) -- Collection of useful custom GPTs and prompts
-- [**awesome-selfhosted-privacy**](https://github.com/ResourceChest/awesome-selfhosted-privacy) -- Self-hosted services for privacy-conscious users
-- [**awesome-privacy-tools**](https://github.com/ResourceChest/awesome-privacy-tools) -- Comprehensive privacy tools and resources
 
 Browse all repositories at [github.com/ResourceChest](https://github.com/ResourceChest).
 
