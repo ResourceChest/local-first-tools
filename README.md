@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/ResourceChest/awesome-local-first-tools?style=social)](https://github.com/ResourceChest/awesome-local-first-tools)
+[![GitHub stars](https://img.shields.io/github/stars/ResourceChest/local-first-tools?style=social)](https://github.com/ResourceChest/local-first-tools)
 
 > A curated list of tools and software that embrace the **local-first** philosophy: your data lives on your device, works offline by default, and syncs only when you choose.
 
