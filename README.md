@@ -1,8 +1,10 @@
 # Local-First Tools
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/ResourceChest/local-first-tools?style=social)](https://github.com/ResourceChest/local-first-tools)
+[![License: MIT](https://img.shields.io/github/license/ResourceChest/local-first-tools)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/ResourceChest/local-first-tools)](https://github.com/ResourceChest/local-first-tools/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/ResourceChest/local-first-tools)](https://github.com/ResourceChest/local-first-tools/stargazers)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md)
+[![Link Check](https://github.com/ResourceChest/local-first-tools/actions/workflows/link-check.yml/badge.svg)](https://github.com/ResourceChest/local-first-tools/actions/workflows/link-check.yml)
 
 > A curated list of tools and software that embrace the **local-first** philosophy: your data lives on your device, works offline by default, and syncs only when you choose.
 
