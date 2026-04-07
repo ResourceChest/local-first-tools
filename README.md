@@ -1,7 +1,7 @@
 # Local-First Tools
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/ResourceChest/local-first-tools?style=social)](https://github.com/ResourceChest/local-first-tools)
 
 > A curated list of tools and software that embrace the **local-first** philosophy: your data lives on your device, works offline by default, and syncs only when you choose.
@@ -152,7 +152,7 @@ Contributions are welcome! If you know of a local-first tool that belongs on thi
 - Add new entries in alphabetical order within their category
 - Check that all links are valid before submitting
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+See [CONTRIBUTING.md](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md) for more details.
 
 ## Disclaimer
 
