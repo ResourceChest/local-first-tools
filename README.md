@@ -39,7 +39,7 @@ This list collects the best tools that respect these principles -- from note-tak
 ## Note-Taking & Knowledge Management
 
 | Tool | Description | Platform | Open Source |
-|------|-------------|----------|:-----------:|
+|---|-------|-------|:--------:|
 | [Obsidian](https://obsidian.md/) | Markdown-based knowledge base with a local vault, plugin ecosystem, and graph view. Your notes are plain `.md` files on disk. | Win/Mac/Linux/Mobile | No |
 | [Logseq](https://github.com/logseq/logseq) | Open-source outliner and knowledge graph. Block-based editing with local Markdown and Org-mode storage. | Win/Mac/Linux/Mobile | Yes |
 | [Joplin](https://github.com/laurent22/joplin) | Open-source note-taking and to-do app with E2E encrypted sync. Supports Markdown, notebooks, and tags. | Win/Mac/Linux/Mobile | Yes |
@@ -51,7 +51,7 @@ This list collects the best tools that respect these principles -- from note-tak
 ## Writing & Documents
 
 | Tool | Description | Platform | Open Source |
-|------|-------------|----------|:-----------:|
+|---|-------|-------|:--------:|
 | [LibreOffice](https://www.libreoffice.org/) | Full-featured office suite (docs, spreadsheets, presentations) that works entirely with local files. No cloud required. | Win/Mac/Linux | Yes |
 | [CryptPad](https://github.com/cryptpad/cryptpad) | E2E encrypted collaborative document suite (docs, sheets, presentations, kanban). Self-hostable with zero-knowledge architecture. | Web (self-hosted) | Yes |
 | [Typst](https://github.com/typst/typst) | Modern typesetting system and alternative to LaTeX. Compiles locally, produces beautiful documents from markup. | Win/Mac/Linux | Yes |
@@ -60,7 +60,7 @@ This list collects the best tools that respect these principles -- from note-tak
 ## Task Management & Productivity
 
 | Tool | Description | Platform | Open Source |
-|------|-------------|----------|:-----------:|
+|---|-------|-------|:--------:|
 | [Todoist](https://todoist.com/) | Popular task manager with a robust offline mode. Tasks sync when connectivity returns. | Win/Mac/Linux/Mobile/Web | No |
 | [Super Productivity](https://github.com/johannesjo/super-productivity) | Open-source time tracker and to-do list with Jira/GitHub/GitLab integration. All data stored locally by default. | Win/Mac/Linux/Mobile | Yes |
 | [Vikunja](https://github.com/go-vikunja/vikunja) | Open-source to-do and project management application. Self-hostable with lists, kanban boards, and Gantt charts. | Web (self-hosted) | Yes |
@@ -70,7 +70,7 @@ This list collects the best tools that respect these principles -- from note-tak
 ## Communication
 
 | Tool | Description | Platform | Open Source |
-|------|-------------|----------|:-----------:|
+|---|-------|-------|:--------:|
 | [Signal](https://signal.org/) | E2E encrypted messaging with disappearing messages, sealed sender, and no ads or trackers. | Win/Mac/Linux/Mobile | Yes |
 | [Element](https://github.com/element-hq/element-web) / [Matrix](https://matrix.org/) | Decentralized, self-hostable chat built on the Matrix protocol. Federated E2E encryption with bridges to other platforms. | Win/Mac/Linux/Mobile/Web | Yes |
 | [Briar](https://briarproject.org/) | Peer-to-peer encrypted messaging that works over Tor, Wi-Fi, or Bluetooth. Designed to function without internet infrastructure. | Android/Linux | Yes |
@@ -79,7 +79,7 @@ This list collects the best tools that respect these principles -- from note-tak
 ## File Storage & Sync
 
 | Tool | Description | Platform | Open Source |
-|------|-------------|----------|:-----------:|
+|---|-------|-------|:--------:|
 | [Syncthing](https://github.com/syncthing/syncthing) | Continuous peer-to-peer file synchronization. No cloud, no sign-up -- devices talk directly to each other over encrypted channels. | Win/Mac/Linux/Android | Yes |
 | [Nextcloud](https://github.com/nextcloud/server) | Self-hosted file storage and collaboration platform. Calendar, contacts, office docs, and more -- all under your control. | Win/Mac/Linux/Mobile/Web | Yes |
 | [Resilio Sync](https://www.resilio.com/individuals/) | Peer-to-peer file sync powered by BitTorrent technology. Fast, private, and no cloud storage needed. | Win/Mac/Linux/Mobile | No |
@@ -88,7 +88,7 @@ This list collects the best tools that respect these principles -- from note-tak
 ## Development Tools
 
 | Tool | Description | Platform | Open Source |
-|------|-------------|----------|:-----------:|
+|---|-------|-------|:--------:|
 | [Git](https://git-scm.com/) | The original local-first tool. Distributed version control with full repo history on every machine. | Win/Mac/Linux | Yes |
 | [SQLite](https://www.sqlite.org/) | Serverless, zero-configuration, self-contained SQL database engine. The most widely deployed database in the world -- and it runs entirely on your machine. | Win/Mac/Linux | Yes |
 | [PouchDB](https://github.com/pouchdb/pouchdb) / [CouchDB](https://github.com/apache/couchdb) | Local-first database that syncs. PouchDB runs in the browser; CouchDB handles the server side. Built-in conflict resolution. | Win/Mac/Linux/Web | Yes |
@@ -100,7 +100,7 @@ This list collects the best tools that respect these principles -- from note-tak
 ## Media & Creative
 
 | Tool | Description | Platform | Open Source |
-|------|-------------|----------|:-----------:|
+|---|-------|-------|:--------:|
 | [Krita](https://krita.org/) | Professional digital painting application. Fully offline with brush engines, animation tools, and HDR support. | Win/Mac/Linux | Yes |
 | [GIMP](https://www.gimp.org/) | Powerful image editing and manipulation. A free, local alternative to Photoshop with decades of development. | Win/Mac/Linux | Yes |
 | [Kdenlive](https://github.com/KDE/kdenlive) | Non-linear video editor with multi-track editing, effects, and transitions. All processing happens locally. | Win/Mac/Linux | Yes |
@@ -110,7 +110,7 @@ This list collects the best tools that respect these principles -- from note-tak
 ## Password & Security
 
 | Tool | Description | Platform | Open Source |
-|------|-------------|----------|:-----------:|
+|---|-------|-------|:--------:|
 | [KeePassXC](https://keepassxc.org/) | Cross-platform password manager. Database stored locally in an encrypted `.kdbx` file. No cloud, no account required. | Win/Mac/Linux | Yes |
 | [Bitwarden](https://github.com/bitwarden/server) | Open-source password manager that can be entirely self-hosted with Vaultwarden. Full control over your credential storage. | Win/Mac/Linux/Mobile/Web | Yes |
 | [age](https://github.com/FiloSottile/age) | Simple, modern file encryption tool. No configuration, no boilerplate -- just encrypt and decrypt files. | Win/Mac/Linux | Yes |
@@ -119,7 +119,7 @@ This list collects the best tools that respect these principles -- from note-tak
 ## Browsers & Web
 
 | Tool | Description | Platform | Open Source |
-|------|-------------|----------|:-----------:|
+|---|-------|-------|:--------:|
 | [Firefox](https://www.mozilla.org/firefox/) | Privacy-respecting browser backed by a non-profit. Enhanced Tracking Protection, containers, and a vast extension ecosystem. | Win/Mac/Linux/Mobile | Yes |
 | [Brave](https://brave.com/) | Privacy-focused browser with built-in ad and tracker blocking. Chromium-based with shields enabled by default. | Win/Mac/Linux/Mobile | Yes |
 | [Tor Browser](https://www.torproject.org/) | Browse anonymously through the Tor network. Defends against surveillance and circumvents censorship. | Win/Mac/Linux/Android | Yes |
@@ -128,12 +128,17 @@ This list collects the best tools that respect these principles -- from note-tak
 
 ## More from ResourceChest
 
-Explore our other curated lists and tools:
+| Repository | Description |
+|:--------|:------|
+| [Chrome Privacy Extensions](https://github.com/ResourceChest/chrome-privacy-extensions) | Curated Chrome extensions for privacy and security |
+| [Custom GPTs](https://github.com/ResourceChest/custom-gpts) | Community-curated catalog of useful Custom GPTs with ratings |
+| [AI Agents](https://github.com/ResourceChest/ai-agents) | Practical AI agents, frameworks, and tools for developers |
+| [FinOps Tools](https://github.com/ResourceChest/finops-tools) | Vendor-neutral tools for cloud cost optimization |
+| [Dev Tools (No Signup)](https://github.com/ResourceChest/dev-tools-no-signup) | Free developer tools that work instantly without an account |
 
-- [**chrome-privacy-extensions**](https://github.com/ResourceChest/chrome-privacy-extensions) -- Curated list of Chrome extensions that protect your privacy
-- [**custom-gpts**](https://github.com/ResourceChest/custom-gpts) -- Collection of useful custom GPTs and prompts
+> **[Follow ResourceChest](https://github.com/ResourceChest)** for more curated resource collections.
 
-Browse all repositories at [github.com/ResourceChest](https://github.com/ResourceChest).
+---
 
 ## Contributing
 
