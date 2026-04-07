@@ -1,12 +1,12 @@
-name: Check Markdown Links
+name: Link Check
 
 on:
+  schedule:
+    - cron: '0 9 * * 1'
   push:
     branches: [main]
   pull_request:
-    branches: [main]
-  schedule:
-    - cron: "0 9 1 * *" # 1st of every month at 09:00 UTC
+  workflow_dispatch:
 
 jobs:
   link-check:
@@ -14,13 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Link Checker
+      - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: >-
-            --verbose
-            --no-progress
-            --accept 200,204,301,302,403,429
-            --exclude-mail
-            '**/*.md'
+          args: --accept 200,204,301,302,429 --timeout 30 '**/*.md'
           fail: true
