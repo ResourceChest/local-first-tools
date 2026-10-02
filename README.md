@@ -93,6 +93,7 @@ This list collects the best tools that respect these principles -- from note-tak
 |---|-------|-------|:--------:|
 | [Git](https://git-scm.com/) | The original local-first tool. Distributed version control with full repo history on every machine. | Win/Mac/Linux | Yes |
 | [SQLite](https://www.sqlite.org/) | Serverless, zero-configuration, self-contained SQL database engine. The most widely deployed database in the world -- and it runs entirely on your machine. | Win/Mac/Linux | Yes |
+| [LiuNengAI Bug Report Builder](https://liunenglabs.xyz/guides/debug-report/) | Chinese-language form that assembles Markdown bug reports entirely in the browser. Save the single HTML file for offline use; no login, model API, or input upload. | Web (offline HTML) | [Yes (MIT)](https://github.com/a941249849/liunengai-debug-report) |
 | [PouchDB](https://github.com/pouchdb/pouchdb) / [CouchDB](https://github.com/apache/couchdb) | Local-first database that syncs. PouchDB runs in the browser; CouchDB handles the server side. Built-in conflict resolution. | Win/Mac/Linux/Web | Yes |
 | [Automerge](https://github.com/automerge/automerge) | CRDT library for building local-first collaborative applications. Automatic conflict-free merging across devices. | Win/Mac/Linux/Web | Yes |
 | [Yjs](https://github.com/yjs/yjs) | High-performance CRDT framework for real-time collaboration. Powers local-first editing in many apps. | Web | Yes |
