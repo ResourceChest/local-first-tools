@@ -54,6 +54,7 @@ This list collects the best tools that respect these principles -- from note-tak
 
 | Tool | Description | Platform | Open Source |
 |---|-------|-------|:--------:|
+| [JWillum products](https://jwillumproducts.github.io/) | Offline browser tools that clean and convert CSV exports (Stripe, QuickBooks, Shopify, Etsy). Files are processed locally and never leave your device. Paid, $8 each. | Web | No |
 | [LibreOffice](https://www.libreoffice.org/) | Full-featured office suite (docs, spreadsheets, presentations) that works entirely with local files. No cloud required. | Win/Mac/Linux | Yes |
 | [CryptPad](https://github.com/cryptpad/cryptpad) | E2E encrypted collaborative document suite (docs, sheets, presentations, kanban). Self-hostable with zero-knowledge architecture. | Web (self-hosted) | Yes |
 | [Typst](https://github.com/typst/typst) | Modern typesetting system and alternative to LaTeX. Compiles locally, produces beautiful documents from markup. | Win/Mac/Linux | Yes |
