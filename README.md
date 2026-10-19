@@ -42,6 +42,7 @@ This list collects the best tools that respect these principles -- from note-tak
 
 | Tool | Description | Platform | Open Source |
 |---|-------|-------|:--------:|
+| [Madhav](https://madhav.app) | Free local-first desktop sidebar for Markdown notes, tasks, bookmarks, and reminders, with optional Telegram sync and MCP integration. Public repository distributes releases rather than application source. | Win/Mac/Linux | No |
 | [Obsidian](https://obsidian.md/) | Markdown-based knowledge base with a local vault, plugin ecosystem, and graph view. Your notes are plain `.md` files on disk. | Win/Mac/Linux/Mobile | No |
 | [Logseq](https://github.com/logseq/logseq) | Open-source outliner and knowledge graph. Block-based editing with local Markdown and Org-mode storage. | Win/Mac/Linux/Mobile | Yes |
 | [Joplin](https://github.com/laurent22/joplin) | Open-source note-taking and to-do app with E2E encrypted sync. Supports Markdown, notebooks, and tags. | Win/Mac/Linux/Mobile | Yes |
