@@ -103,6 +103,7 @@ This list collects the best tools that respect these principles -- from note-tak
 
 | Tool | Description | Platform | Open Source |
 |---|-------|-------|:--------:|
+| [CapKit](https://github.com/imnakul/Capkit) | Local desktop toolkit for screenshot capture, annotation, screen recording, and on-screen drawing without an account or cloud processing. Proprietary software. | Windows | No |
 | [Krita](https://krita.org/) | Professional digital painting application. Fully offline with brush engines, animation tools, and HDR support. | Win/Mac/Linux | Yes |
 | [GIMP](https://www.gimp.org/) | Powerful image editing and manipulation. A free, local alternative to Photoshop with decades of development. | Win/Mac/Linux | Yes |
 | [Kdenlive](https://github.com/KDE/kdenlive) | Non-linear video editor with multi-track editing, effects, and transitions. All processing happens locally. | Win/Mac/Linux | Yes |
