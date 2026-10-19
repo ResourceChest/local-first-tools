@@ -63,6 +63,7 @@ This list collects the best tools that respect these principles -- from note-tak
 
 | Tool | Description | Platform | Open Source |
 |---|-------|-------|:--------:|
+| [Smaran](https://github.com/imnakul/Smaran---Remember-what-matters) | Offline-first reminders, learnings, gratitude, quotes, and habits stored on the device, with optional two-way Notion sync and JSON backup. No account required for offline use. | Android | Yes |
 | [Todoist](https://todoist.com/) | Popular task manager with a robust offline mode. Tasks sync when connectivity returns. | Win/Mac/Linux/Mobile/Web | No |
 | [Super Productivity](https://github.com/johannesjo/super-productivity) | Open-source time tracker and to-do list with Jira/GitHub/GitLab integration. All data stored locally by default. | Win/Mac/Linux/Mobile | Yes |
 | [Vikunja](https://github.com/go-vikunja/vikunja) | Open-source to-do and project management application. Self-hostable with lists, kanban boards, and Gantt charts. | Web (self-hosted) | Yes |
