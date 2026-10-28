@@ -64,6 +64,7 @@ This list collects the best tools that respect these principles -- from note-tak
 | Tool | Description | Platform | Open Source |
 |---|-------|-------|:--------:|
 | [Todoist](https://todoist.com/) | Popular task manager with a robust offline mode. Tasks sync when connectivity returns. | Win/Mac/Linux/Mobile/Web | No |
+| [Ripple](https://ripplefocus.github.io/en/) | Free local-only Android app and short-form video blocker with monotonic-clock cooldown timers and self-healing uninstall protection. All rules and usage logs stay on the device with no account required. | Android | No |
 | [Super Productivity](https://github.com/johannesjo/super-productivity) | Open-source time tracker and to-do list with Jira/GitHub/GitLab integration. All data stored locally by default. | Win/Mac/Linux/Mobile | Yes |
 | [Vikunja](https://github.com/go-vikunja/vikunja) | Open-source to-do and project management application. Self-hostable with lists, kanban boards, and Gantt charts. | Web (self-hosted) | Yes |
 | [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) | Command-line task management tool. All data stored in local files. Powerful filtering, reporting, and scripting. | Win/Mac/Linux | Yes |
