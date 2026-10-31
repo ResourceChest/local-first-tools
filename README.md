@@ -113,9 +113,10 @@ This list collects the best tools that respect these principles -- from note-tak
 
 | Tool | Description | Platform | Open Source |
 |---|-------|-------|:--------:|
-| [KeePassXC](https://keepassxc.org/) | Cross-platform password manager. Database stored locally in an encrypted `.kdbx` file. No cloud, no account required. | Win/Mac/Linux | Yes |
-| [Bitwarden](https://github.com/bitwarden/server) | Open-source password manager that can be entirely self-hosted with Vaultwarden. Full control over your credential storage. | Win/Mac/Linux/Mobile/Web | Yes |
 | [age](https://github.com/FiloSottile/age) | Simple, modern file encryption tool. No configuration, no boilerplate -- just encrypt and decrypt files. | Win/Mac/Linux | Yes |
+| [Bitwarden](https://github.com/bitwarden/server) | Open-source password manager that can be entirely self-hosted with Vaultwarden. Full control over your credential storage. | Win/Mac/Linux/Mobile/Web | Yes |
+| [Bossanova](https://bsnv.app/en) | Proprietary encrypted local vault with optional MCP access for approved API requests and program execution; requires an account and periodic online license checks. | Win/Mac | No |
+| [KeePassXC](https://keepassxc.org/) | Cross-platform password manager. Database stored locally in an encrypted `.kdbx` file. No cloud, no account required. | Win/Mac/Linux | Yes |
 | [VeraCrypt](https://github.com/veracrypt/VeraCrypt) | Disk encryption software for creating encrypted volumes. Successor to TrueCrypt with active security audits. | Win/Mac/Linux | Yes |
 
 ## Browsers & Web
