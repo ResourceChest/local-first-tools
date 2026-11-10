@@ -68,6 +68,7 @@ This list collects the best tools that respect these principles -- from note-tak
 | [Vikunja](https://github.com/go-vikunja/vikunja) | Open-source to-do and project management application. Self-hostable with lists, kanban boards, and Gantt charts. | Web (self-hosted) | Yes |
 | [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) | Command-line task management tool. All data stored in local files. Powerful filtering, reporting, and scripting. | Win/Mac/Linux | Yes |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open-source Notion alternative built with Flutter and Rust. Local-first with optional self-hosted sync. | Win/Mac/Linux/Mobile | Yes |
+| [Today Card](https://drsamonline.github.io/today-card/) | One intention and one task for the day, with a streak. A single HTML file with no server, no account and no network calls — the streak lives in the browser. | Web | Yes |
 
 ## Communication
 
