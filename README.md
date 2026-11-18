@@ -43,6 +43,7 @@ This list collects the best tools that respect these principles -- from note-tak
 | Tool | Description | Platform | Open Source |
 |---|-------|-------|:--------:|
 | [Obsidian](https://obsidian.md/) | Markdown-based knowledge base with a local vault, plugin ecosystem, and graph view. Your notes are plain `.md` files on disk. | Win/Mac/Linux/Mobile | No |
+| [LocArk](https://locark.com/) | Free offline Markdown notes and password records in a user-chosen folder, with local encryption for new workspaces. Creating Kanban boards and mind maps requires Pro. | Win/Mac/iOS/Android | No |
 | [Logseq](https://github.com/logseq/logseq) | Open-source outliner and knowledge graph. Block-based editing with local Markdown and Org-mode storage. | Win/Mac/Linux/Mobile | Yes |
 | [Joplin](https://github.com/laurent22/joplin) | Open-source note-taking and to-do app with E2E encrypted sync. Supports Markdown, notebooks, and tags. | Win/Mac/Linux/Mobile | Yes |
 | [Zettlr](https://github.com/Zettlr/Zettlr) | Markdown editor built for academics and researchers. Integrates with Zotero, supports citations, and stores everything locally. | Win/Mac/Linux | Yes |
