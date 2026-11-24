@@ -108,6 +108,7 @@ This list collects the best tools that respect these principles -- from note-tak
 | [Kdenlive](https://github.com/KDE/kdenlive) | Non-linear video editor with multi-track editing, effects, and transitions. All processing happens locally. | Win/Mac/Linux | Yes |
 | [Audacity](https://github.com/audacity/audacity) | Multi-track audio editor and recorder. Record, edit, and export audio entirely offline. | Win/Mac/Linux | Yes |
 | [Blender](https://www.blender.org/) | Complete 3D creation suite -- modeling, animation, rendering, compositing, and video editing. Fully local. | Win/Mac/Linux | Yes |
+| [Linger](https://withlinger.com/) | A local-first moodboard for collecting visual references, source links, and notes on an infinite canvas. Your reference library stays on your Mac. | Mac | No |
 
 ## Password & Security
 
@@ -164,3 +165,4 @@ This list is provided for informational purposes only. Inclusion does not imply 
 ---
 
 If you find this list useful, consider giving it a star and sharing it with others who value digital privacy and data ownership.
+
