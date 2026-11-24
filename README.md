@@ -165,4 +165,3 @@ This list is provided for informational purposes only. Inclusion does not imply 
 ---
 
 If you find this list useful, consider giving it a star and sharing it with others who value digital privacy and data ownership.
-
